@@ -1,0 +1,1 @@
+This is a multi-project workspace. The RTX library must be built before the HelloWorld application.
